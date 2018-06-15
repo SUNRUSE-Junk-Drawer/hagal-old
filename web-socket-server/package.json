@@ -1,0 +1,5 @@
+{
+  "name": "@hagal/web-socket-server",
+  "description": "A HAgAl implementation which abstracts a WebSocket server",
+  "version": "0.0.0"
+}

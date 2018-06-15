@@ -1,0 +1,5 @@
+{
+  "name": "@hagal/electron-ipc-renderer",
+  "description": "A HAgAl implementation which abstracts the IPC channel from an Electron Renderer process to its associated Main process",
+  "version": "0.0.0"
+}
